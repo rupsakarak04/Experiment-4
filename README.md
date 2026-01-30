@@ -104,7 +104,7 @@ In this experiment, different set operations were implemented to understand thei
 
           lgorithm 12: Removing an Element Using discard()
 
-*Program 12 : Course*
+*Program 12 : Course codes*
 
          Start the program.
          Create a set containing course codes.
